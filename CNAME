@@ -95,9 +95,9 @@ animation:webzone 25s infinite linear;
 </div>
 <div class='wez-slider'>
 <figure>
-<img src='1.jpg'>
-<img src='2.jpg'>
-<img src='3.jpg'>
+<img src=url('1.jpg')>
+<img src=url('2.jpg')>
+<img src=url('3.jpg')>
 <img src='4.jpg'>
 <img src='5.jpg'>
 
