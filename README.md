@@ -1,1 +1,0 @@
-# indu-bal-vinay-mandir
