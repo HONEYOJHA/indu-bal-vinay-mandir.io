@@ -59,7 +59,7 @@ position:relative;
 width:500%;
 margin:0px;
 left:0px;
-animation:webzone 25s infinite linear;
+animation:webzone 40s infinite linear;
 }
 @keyframes webzone{
 0%{left:0%;}
