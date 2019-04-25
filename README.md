@@ -1,7 +1,7 @@
 
 
 <html>
-<head><title>INDU BAL VINAY MANDIR
+<head><title>
 </title>
 <style>
 .page{
