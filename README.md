@@ -12,7 +12,7 @@
 	height:200px;
 	border-style:groove;
 	background-color:#00a3e8;
-	background-image:url('header.jpg');
+	background-image:url('https://github.com/HONEYOJHA/indu-bal-vinay-mandir/blob/master/header.jpg');
 
 }
 .linkspart{
