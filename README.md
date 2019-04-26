@@ -77,7 +77,7 @@ animation:webzone 25s infinite linear;
 <div class='page'>
 <div class='headerpart'></div>
 <div class='linkspart'><center>
-<a>HOME</a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='home.html'>HOME</a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
