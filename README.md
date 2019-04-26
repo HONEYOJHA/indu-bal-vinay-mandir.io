@@ -1,11 +1,90 @@
+www.indubalvinaymandir.tk
 <html>
 <head><title>INDU BAL VINAY MANDIR
 </title>
-<link type='text/css'
-rel='stylesheet'
-href='styles.css'/>
+<STYLE>
+  .page{
+	width:1330px;
+	height:1200px;
+	border-style:groove;
+}
+.headerpart{
+	width:1330px;
+	height:200px;
+	border-style:groove;
+	background-color:#00a3e8;
+	background-image:url('header.jpg');
+
+}
+.linkspart{
+	width:1330px;
+	height:40px;
+	margin-top:5px;
+	
+	
+	border-style:groove;
+	background-color:#00a3e8;
+}
+ 
+ .linkspart a  
+ { color:white;
+ text-decoration:none;
+	font-size:30px;
+	 
+ }
+
+ .linkspart a:hover{
+	 background-color:white;
+	 color:#00a3e8;
+ }
+ .wez-slider{
+width:100%;
+height:920px;
+margin:10px auto;
+border-radius:20px solid gold;
+box-shadow:0px 0px 20px 5px gray;
+overflow:hidden;
+
+}
+.wez-slider figure img{
+width:20%;
+height:920px;
+float:left;
 
 
+}
+
+.wez-slider figure{
+position:relative;
+width:500%;
+margin:0px;
+left:0px;
+animation:webzone 25s infinite linear;
+}
+@keyframes webzone{
+0%{left:0%;}
+15%{left:0%;}
+20%{left:-100%;}
+35%{left:-100%;}
+40%{left:-200%;}
+60%{left:-200%;}
+65%{left:-300%;}
+80%{left:-300%;}
+85%{left:-400%;}
+100%{left:-400%;}
+}
+  
+	  
+	  
+	  
+	  
+  
+  
+	  
+  
+ 
+ 
+  </STYLE>
 </head>
 <body>
 <div class='page'>
