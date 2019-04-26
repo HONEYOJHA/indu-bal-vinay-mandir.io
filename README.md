@@ -1,4 +1,3 @@
-# indu-bal-vinay-mandir
 <html>
 <head><title>INDU BAL VINAY MANDIR
 </title>
@@ -20,8 +19,6 @@
 	width:1330px;
 	height:40px;
 	margin-top:5px;
-	
-	
 	border-style:groove;
 	background-color:#00a3e8;
 }
@@ -90,7 +87,7 @@ animation:webzone 25s infinite linear;
 <div class='page'>
 <div class='headerpart'></div>
 <div class='linkspart'><center>
-<a>HOME</a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='home.html'>HOME</a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
